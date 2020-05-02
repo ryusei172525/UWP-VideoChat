@@ -1,4 +1,0 @@
-apiRules:
-- exclude:
-    uidRegex: ^Microsoft\.MixedReality\.WebRTC\.Interop$
-    type: Namespace

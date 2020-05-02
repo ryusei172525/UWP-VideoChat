@@ -1,2 +1,0 @@
-include ':webrtc-native'
-rootProject.name='MixedReality-WebRTC'
