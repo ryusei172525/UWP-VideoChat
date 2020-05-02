@@ -1,6 +1,6 @@
 1.cloneする
 ```
-git clone --recursive 
+git clone --recursive https://github.com/ryusei172525/UWP-VideoChat.git
 ```
 
 2.ソリューションの再ターゲット
